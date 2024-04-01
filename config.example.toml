@@ -1,0 +1,13 @@
+title = "go-wake-agent"
+
+[application]
+# Defines the port on which the application is listening for requests.
+listenPort = 3200
+
+[[allowed_clients]]
+name = "client1"
+apiToken = "clientToken"
+
+[[allowed_clients]]
+name = "client2"
+apiToken = "clientToken"

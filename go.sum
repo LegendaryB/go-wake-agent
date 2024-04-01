@@ -1,2 +1,2 @@
-github.com/LegendaryB/go-store v0.0.0-20221214101438-8e2be1867097 h1:HxU1ldEusN2wey7mrqDrR9YHYlZaEN/vyIX9hk84iMc=
-github.com/LegendaryB/go-store v0.0.0-20221214101438-8e2be1867097/go.mod h1:uumLbakjDrgvYvgFXkQ6aCr8oxVxbe5iFi/IoVmWN/8=
+github.com/BurntSushi/toml v1.3.2 h1:o7IhLm0Msx3BaB+n3Ag7L8EVlByGnpq14C4YWiu/gL8=
+github.com/BurntSushi/toml v1.3.2/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
