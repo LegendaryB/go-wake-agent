@@ -1,8 +1,6 @@
 package config
 
 import (
-	"fmt"
-
 	"github.com/BurntSushi/toml"
 )
 
@@ -21,7 +19,6 @@ func NewConfiguration() (*Configuration, error) {
 	var configuration Configuration
 
 	if _, err := toml.DecodeFile(configurationFileName, &configuration); err != nil {
-		fmt.Print("Failed to load configuration!")
 		return nil, err
 	}
 
